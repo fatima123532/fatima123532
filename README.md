@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fatima Irfan 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatima%20Irfan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
